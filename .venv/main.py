@@ -5,8 +5,8 @@ import random
 from uart import *
 
 AIO_FEED_IDs = ["button1","button2"]
-AIO_USERNAME = "quizua"
-AIO_KEY = "aio_cgSn25o2Dzi9s4tYDjxOeTZ3IC46"
+AIO_USERNAME = ""
+AIO_KEY = ""
 
 def connected(client):
     print("Connected successfully ...")
